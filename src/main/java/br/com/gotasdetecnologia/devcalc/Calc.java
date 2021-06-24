@@ -10,6 +10,9 @@ public class Calc {
         System.out.println("Ola Mundo. Passou pelo metodo main");
         somarDoisNumeros();
         //
+        //
+        //
+
     }
     public static void somarDoisNumeros(){
         System.out.println("Passou pelo método somarDoisNumeros ");
